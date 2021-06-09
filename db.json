@@ -1,52 +1,52 @@
 {
   "seats": [
     {
-      "id": 1,
-      "seat": "a1"
+      "seatName": "a1",
+      "id": 1
     },
     {
-      "id": 2,
-      "seat": "a2"
+      "seatName": "a2",
+      "id": 2
     },
     {
-      "id": 3,
-      "seat": "a3"
+      "seatName": "a3",
+      "id": 3
     },
     {
-      "id": 4,
-      "seat": "b1"
+      "seatName": "b1",
+      "id": 4
     },
     {
-      "id": 5,
-      "seat": "b2"
+      "seatName": "b2"
+      "id": 5
     },
     {
-      "id": 6,
-      "seat": "b3"
+      "seatName": "b3",
+      "id": 6
     },
     {
-      "id": 7,
-      "seat": "c1"
+      "seatName": "c1",
+      "id": 7
     },
     {
-      "id": 8,
-      "seat": "c2"
+      "seatName": "c2", 
+      "id": 8
     },
     {
-      "id": 9,
-      "seat": "c3"
+      "seatName": "c3", 
+      "id": 9
     },
     {
-      "id": 10,
-      "seat": "d1"
+      "seatName": "d1", 
+      "id": 10
     },
     {
-      "id": 11,
-      "seat": "d2"
+      "seatName": "d2", 
+      "id": 11
     },
     {
-      "id": 12,
-      "seat": "d3"
+      "seatName": "d3", 
+      "id": 12
     }
   ],
   "profile": {
